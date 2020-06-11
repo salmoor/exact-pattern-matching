@@ -2,12 +2,12 @@
 
 Exact Pattern Matching using various algorithms such as [Knuth–Morris–Pratt](https://en.wikipedia.org/wiki/Knuth%E2%80%93Morris%E2%80%93Pratt_algorithm), [Boyer-Moore](https://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm), and [Rabin-Karp](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm).
 
-# Aim
+## Aim
 
 Program given two sequences T and P, determines whether P occurs exactly
 within T , and if it does, the locations of P in T.
 
-# Installation
+## Installation
 
 ```bash
 $ git clone https://github.com/salmoor/exact-pattern-matching.git
@@ -15,7 +15,7 @@ $ cd exact-pattern-matching
 $ make
 ```
 
-# How to Use
+## How to use
 
 **Input:** Two strings T and P , where |T | ≥ |P |. Two strings should be in
 [FASTA](https://en.wikipedia.org/wiki/FASTA_format) format.
